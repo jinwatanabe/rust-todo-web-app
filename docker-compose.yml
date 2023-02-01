@@ -1,0 +1,10 @@
+version: "3"
+services:
+  rust:
+    build: .
+    container_name: rust-todo
+    tty: true
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/app
