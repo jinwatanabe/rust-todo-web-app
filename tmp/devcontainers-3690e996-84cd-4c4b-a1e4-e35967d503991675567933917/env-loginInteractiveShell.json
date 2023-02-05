@@ -1,0 +1,15 @@
+{
+	"HOSTNAME": "e3f8c5f0a306",
+	"SHLVL": "2",
+	"HOME": "/root",
+	"PAGER": "less",
+	"REMOTE_CONTAINERS_IPC": "/tmp/vscode-remote-containers-ipc-1ae78bf2c273b8229e993845b5b5a5370a0a02d3.sock",
+	"RUSTUP_HOME": "/usr/local/rustup",
+	"LC_COLLATE": "C",
+	"PATH": "/usr/local/cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+	"REMOTE_CONTAINERS_SOCKETS": "[\"/tmp/vscode-ssh-auth-1ae78bf2c273b8229e993845b5b5a5370a0a02d3.sock\",\"/tmp/.X11-unix/X0\"]",
+	"LANG": "C.UTF-8",
+	"RUST_VERSION": "1.66.1",
+	"CARGO_HOME": "/usr/local/cargo",
+	"CHARSET": "UTF-8"
+}
